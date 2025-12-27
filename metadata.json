@@ -1,0 +1,8 @@
+
+{
+  "name": "Pizzavivi Express - Nature & Cosmos",
+  "description": "Pizza naturelle cuite avec passion à Adounko Kpevi. Un voyage de saveurs entre terre et étoiles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
